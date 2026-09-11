@@ -1,7 +1,7 @@
 # Hi, I'm Georgios Tsiakalakis 👋
 ### Data-Driven Computing & Decision Making | Software Development | Mathematics & Programming
 
-I hold a Master's degree in Data-Driven Computing and Decision Making, with a strong interest in software development,
+I hold a Master's degree in Data-Driven Computing and Decision Making, and I have a strong interest in software development,
 programming, and problem-solving. I enjoy contributing to projects that allow me to apply my knowledge of Computer Science, software engineering, algorithms, and data-driven decision-making to develop effective solutions through collaborative teamwork.  
 
 
