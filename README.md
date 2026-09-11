@@ -32,7 +32,7 @@ Bachelor's Degree in Mathematics
 
 
 ## 💼 Work Experience
-### Volunteer Mathematics Teacher
+### Volunteer Mathematics Tutor
 **Social Tutoring Centre – 1st Primary School of Nea Makri** | September 2025 – May 2026
 **Location: Nea Makri, Greece**
 - Collaborated with teachers and coordinators to support students and contribute to the achievement of shared educational objectives.
